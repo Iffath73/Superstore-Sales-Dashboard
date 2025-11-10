@@ -31,6 +31,8 @@ This project analyzes Superstore retail sales data to identify trends, profit ma
 ## 📂 Project File
 You can explore or download the dashboard here:  
 👉 [Superstore_Dashboard.pbix](Superstore_Dashboard.pbix)
+
 ---
+
 **Author:** Iffath 
 **Project Type:** Data Analysis / Business Intelligence
