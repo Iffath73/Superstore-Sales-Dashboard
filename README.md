@@ -1,25 +1,29 @@
 # Superstore Sales Dashboard using Python & Power BI
 
 ## 📊 Project Overview
-This project analyzes Superstore retail sales data to identify trends, profit margins, and regional performance. The goal is to provide actionable insights through an interactive dashboard.
+This project analyzes Superstore retail sales data to identify trends, profit margins, and regional performance. The goal is to provide actionable business insights through an interactive Power BI dashboard.
 
 ## 🛠 Tools Used
-- **Python (Pandas, Matplotlib)** – for data cleaning, analysis, and visualization  
+- **Python (Pandas, Matplotlib)** – for data cleaning and analysis  
 - **Power BI** – for creating interactive dashboards  
 - **DAX** – for calculating KPIs and measures  
 
-## ⚙️ Key Steps
-1. Imported and cleaned the Superstore sales dataset using Python.  
-2. Analyzed trends by category, sub-category, region, and profit.  
-3. Calculated KPIs such as Total Sales, Profit by Sub-Category, and Regional Sales using DAX.  
-4. Built an interactive Power BI dashboard with charts, filters, and visuals.  
+## ⚙️ Dashboard Design & Key Elements
 
-## 📈 Dashboard Highlights
-- KPIs: Total Sales, Profit, Regional Performance  
-- Visuals: Category-wise Sales, Sub-Category Profit, Regional Sales Comparison  
-- Interactive filters for detailed exploration  
+### 1. KPIs (Top Section)
+- **Total Sales, Total Profit, Profit Margin** 
+- Cards use white or dark purple backgrounds  
+- Font color: #333333 or white for contrast  
+
+### 2. Charts & Visuals
+- **Sales by Category** → Column chart with gradient purple bars, data labels visible  
+- **Profit by Sub-Category** → Donut chart in purple tones, minimal legend  
+- **Sales by Region** → Horizontal bar chart, uniform purple, gridlines off  
+- **Sales by State** → Map or bubble map, purple intensity for high-to-low sales  
+- **Sales Trend Over Time** → Smooth line chart in purple, optional markers  
 
 ## 🖼️ Dashboard Screenshots
+
 ![Screenshot 1](Screenshots/ss1.png)
 
 ![Screenshot 2](Screenshots/ss2.png)
@@ -27,6 +31,7 @@ This project analyzes Superstore retail sales data to identify trends, profit ma
 ![Screenshot 3](Screenshots/ss3.png)
 
 ![Screenshot 3](Screenshots/ss4.png)
+
 
 ## 📂 Project File
 You can explore or download the dashboard here:  
