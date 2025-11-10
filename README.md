@@ -21,13 +21,6 @@ This project analyzes Superstore retail sales data to identify trends, profit ma
 
 ## 🖼️ Dashboard Screenshots
 
-![Screenshot 1](Screenshots/ss4.png)
-
-![Screenshot 2](Screenshots/ss1.png)
-
-![Screenshot 3](Screenshots/ss2.png)
-
-![Screenshot 3](Screenshots/ss3.png)
 
 
 ## 📂 Project File
