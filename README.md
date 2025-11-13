@@ -1,41 +1,57 @@
-# Superstore Sales Dashboard using Python & Power BI
+# Superstore Sales Dashboard (Python + Power BI)
 
 ## 📊 Project Overview
-This project analyzes Superstore retail sales data to identify trends, profit margins, and regional performance. The goal is to provide actionable business insights through an interactive Power BI dashboard.
+This project analyzes retail sales data to evaluate item performance, profit margins, and regional trends. The goal is to create actionable insights for business decision-making through an interactive Power BI dashboard.
 
-## 🛠 Tools Used
-- **Python (Pandas, Matplotlib)** – for data cleaning and analysis  
-- **Power BI** – for creating interactive dashboards  
-- **DAX** – for calculating KPIs and measures  
+## 🛠 Tools & Technologies
+- **Python (Pandas, Matplotlib)** – Data cleaning, analysis, and preliminary visualization  
+- **Power BI (Desktop)** – Dashboard creation and interactive visualization  
+- **DAX** – KPI calculation for Power BI  
+- **Excel (Office 2021)** – Data validation and supplementary analysis  
 
-## ⚙️ Dashboard Design & Key Elements
+## ⚙️ Project Workflow
 
-### 1. KPIs (Top Section)
-- **Total Sales, Total Profit, Profit Margin** 
-- Cards use white or dark purple backgrounds  
-- Font color: #333333 or white for contrast  
+### 1. Data Preparation
+- Imported and cleaned retail sales data using Python and Power BI  
+- Performed exploratory data analysis and calculated KPIs  
+- Verified data consistency and correctness  
 
-### 2. Charts & Visuals
-- **Sales by Category** → Column chart with gradient purple bars, data labels visible  
-- **Profit by Sub-Category** → Donut chart in purple tones, minimal legend  
-- **Sales by Region** → Horizontal bar chart, uniform purple, gridlines off  
-- **Sales by State** → Map or bubble map, purple intensity for high-to-low sales  
-- **Sales Trend Over Time** → Smooth line chart in purple, optional markers  
+### 2. Power BI Dashboard
+- Built interactive dashboards with KPIs, charts, and slicers  
+- Applied DAX measures for advanced metrics  
+- Customized dashboard with a consistent theme  
+
+## 📈 Dashboards & KPIs
+
+### **KPIs**
+- Total Sales  
+- Total Profit  
+- Profit Margin  
+
+### **Charts & Visuals**
+1. Sales by Category  
+2. Profit by Sub-Category  
+3. Sales by Region  
+4. Sales by State (Map or Bubble Map)  
+5. Sales Trend Over Time (Line Chart)  
 
 ## 🖼️ Dashboard Screenshots
 
 ![Screenshot 1](Screenshots/ss1.png)
 
-![Screenshot 2](Screenshots/ss2.png)
-
-![Screenshot 3](Screenshots/ss3.png)
-
-![Screenshot 3](Screenshots/ss4.png)
+## 📄 Python Scripts
+All Python code used for data cleaning, analysis, and visualization is documented here:  
 
 
-## 📂 Project File
-You can explore or download the dashboard here:  
-👉 [Superstore_Dashboard.pbix](Superstore_Dashboard.pbix)
+## 🧩 Skills Learned
+- **Python:** Data cleaning, analysis, and visualization with Pandas and Matplotlib  
+- **Power BI:** Data modeling, DAX measures, calculated columns, slicers, dashboard design  
+- **Excel:** Data validation and quality checks  
+
+## 🎯 Outcome
+- Developed a comprehensive dashboard to track sales performance across categories, sub-categories, and regions  
+- Provided actionable insights for business decision-making  
+- Enabled monitoring of key KPIs and trends effectively  
 
 ---
 
