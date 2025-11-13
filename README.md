@@ -7,7 +7,7 @@ This project analyzes retail sales data to evaluate item performance, profit mar
 - **Python (Pandas, Matplotlib)** – Data cleaning, analysis, and preliminary visualization  
 - **Power BI (Desktop)** – Dashboard creation and interactive visualization  
 - **DAX** – KPI calculation for Power BI  
-- **Excel (Office 2021)** – Data validation and supplementary analysis  
+- **Excel** – Data validation and supplementary analysis  
 
 ## ⚙️ Project Workflow
 
